@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>RedSms</id>
+        <title>RedSms</title>
+        <version>1.0.0</version>
+        <authors>cherepets</authors>
+	<owners>cherepets</owners>
+        <projectUrl>https://github.com/cherepets/RedSms</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>.Net client for redsms.ru HTTPS API</description>
+	<iconUrl>http://i.imgur.com/dm8mTCQ.gif</iconUrl>
+        <copyright></copyright>
+        <tags>red, sms, redsms, https, smpp</tags>
+    </metadata>
+    <files>
+        <file src="RedSms\bin\Release\RedSms.dll" target="lib\net45"/>
+    </files>
+</package>
