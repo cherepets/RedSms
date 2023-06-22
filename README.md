@@ -1,5 +1,5 @@
 # RedSms
-.Net client for redsms.ru HTTPS API
+.Net client for [redsms.ru](https://redsms.ru/) HTTPS API
 
 Supports only sending messages for now.
 Usage:
